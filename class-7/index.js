@@ -1,3 +1,5 @@
+// This class all code execute of Browser console!
+
 let a = prompt("Hey whats you age?");
 a = Number.parseInt(a); // Converting the string to a number
 if(a<0){
