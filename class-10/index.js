@@ -6,7 +6,7 @@ while(i < n){
     i++;
 }
 
-// let input = prompt("Enter a Number:")
+let input = prompt("Enter a Number:")
 let l = 0;
 while(l < input){
     console.log(l)
