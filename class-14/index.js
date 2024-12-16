@@ -47,3 +47,9 @@ let upperCaseName = names2.toUpperCase();
 console.log(upperCaseName); 
 // Shuvo (original string is unchanged)
 console.log(names2); 
+
+// QuickQuiz: Use a for loop to print a string
+const stringName = "Mahruful Alam"
+for (let i = 0;i < stringName.length;i++){
+    console.log(stringName)
+}
